@@ -10,6 +10,7 @@ pub mod flag;
 pub mod folders;
 pub mod fqdn;
 pub mod git;
+pub mod igra;  // IGRA L2 support
 pub mod imports;
 pub mod kaspad;
 pub mod khost;
